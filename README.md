@@ -28,4 +28,4 @@ Files2Folder.exe -su
 * .NET 8.0 Desktop Runtime
 
 ## License
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License
