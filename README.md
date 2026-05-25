@@ -27,11 +27,5 @@ Files2Folder.exe -su
 * Windows 10 or 11
 * .NET 8.0 Desktop Runtime
 
-## Development
-To build the single-file executable:
-```bash
-dotnet publish -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true -o "../Build"
-```
-
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
